@@ -1,0 +1,6 @@
+{
+    "database": {
+        "connectionString": "server=LAPTOP-LRL1AC60\\SQLEXPRESS;Database=node-sql;Trusted_Connection=Yes;Driver={SQL Server Native Client 11.0}"
+    },
+    "secret": "temp123"
+}
